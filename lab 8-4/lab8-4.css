@@ -1,0 +1,13 @@
+.home{-webkit-filter: hue-rotate(180deg)}
+.photo{-webkit-filter: sepia(100%)}
+.shadow{-webkit-filter: drop-shadow(16px 16px 10px #999999);}
+a{display: block; width: 100px; padding: 20px; background-color: #918c40; text-align: center; text-decoration: none; color: #ffffff; font-size: 14pt}
+a:hover{position: relative; left: 30px; background-color: #6c8cd5; color: black -webkit-transition: all 1s ease-in}
+article{width: 625px; float: right; padding: 5px}
+body{background-color: #406091}
+div{text-align: center}
+header{text-align: center; margin-left: 200px; margin-top: 20px; width: 500px; border-radius: 15px; border: solid #000000 1px;  background: -webkit-linear-gradient(top, #ffffff, #918c40)}
+h1{line-height: 35px}
+img{margin: 10px; border-radius: 10px}
+nav{width: 150px; height: 320px; float: left; position: relative; left: -25px}
+section{width: 800px; height: 600px; margin-top: 75px; margin: auto; background-color: white; border: solid #918c40 5px}
